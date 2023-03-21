@@ -1,0 +1,135 @@
+main .pg_1 {
+    width:1160px;
+    margin: 0 auto;
+}
+main .pg_1 .pg_1_top {
+}
+main .pg_1 .pg_1_top a {}
+main .pg_1 .pg_1_top a img {
+    margin-top: 30px;
+}
+main .pg_1 .pg_1_top p {
+
+}
+main .pg_1 .pg_1_top p img {
+}
+main .pg_1 .pg_1_btm {
+    text-align: center;
+    
+}
+main .pg_1 .pg_1_btm h2 {
+    margin-top: 30px;
+    font-size: 3rem;
+    font-weight: 700;
+    letter-spacing: -0.03em;
+}
+main .pg_1 .pg_1_btm p:nth-of-type(1) {
+    margin-top: 10px;
+    font-size: 2rem;
+    font-weight: 500;
+    letter-spacing:-0.05em ;}
+main .pg_1 .pg_1_btm p {
+    margin-top: 30px;
+    font-weight: 500;
+    line-height: 1.8;
+    letter-spacing: -0.1em;
+}
+main .pg_1 .pg_1_btm .sns {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: end;
+}
+main .pg_1 .pg_1_btm .sns a {}
+
+main .pg_1 .pg_1_btm .sns a img {
+    width: 35px;
+    height: 35px;
+}
+main .pg_1 .pg_1_btm .sns a:nth-child(2) img {
+    width: 40px;
+    height: 30px;
+    margin-left: 8px;
+    position: relative; top:3px
+
+}
+main .pg_2 {
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center;
+    text-align: center;
+}
+main .pg_2 iframe {
+    margin-top: 120px;
+}
+main .pg_2 h2 {
+    margin-top: 30px;
+    font-size: 2rem;
+    font-weight: 700;
+    letter-spacing: -0.1em;
+}
+main .pg_2 p {
+    margin-top:30px;
+    font-size: 1.5rem;
+    font-weight: 600;
+    letter-spacing: -0.12em;
+    line-height: 1.7;
+    
+}
+main .pg_3 {
+    width: 1160px;
+    margin: 0 auto;
+    
+}
+main .pg_3 h2 {
+    text-align: center;
+    margin-top: 100px;
+    font-size: 3rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    padding-bottom: 50px;
+    border-bottom:3px solid #ccc ;
+}
+main .pg_3 .contents {
+    display: flex;
+    flex-flow: row nowrap;
+}
+main .pg_3 .contents p {
+    font-size: 1.3rem;
+    font-weight: 500;
+    margin-top: 30px;
+    
+
+}
+main .pg_3 .contents p:nth-child(1) img {
+    width: 540px;
+    height: 500px;
+    background-color: aqua;
+}
+main .pg_3 .contents .pg_3_right {}
+main .pg_3 .contents .pg_3_right p {}
+main .pg_3 .contents .pg_3_right p img {
+    height: 400px;
+}
+main .pg_4 {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: center;
+    margin: 150px 0;
+}
+main .pg_4 a {
+
+}
+main .pg_4 a p {
+    position: relative;
+    top: 60px; left: 20px;
+    font-size: 1.3rem;
+    line-height: 1.3;}
+main .pg_4 a p em {
+    font-size: 1.3rem;
+    font-weight: 600;
+}
+main .pg_4 a img {
+    width:100%;
+    height: 400px;
+
+}
